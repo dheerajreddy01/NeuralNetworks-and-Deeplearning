@@ -4,19 +4,19 @@
 # •  Sample output: •ntyp 
 
 
-# str=input("Enter the input string:")
+str=input("Enter the input string:")
 
-# # Deleting at least 2 characters from the string 
+# Deleting at least 2 characters from the string 
 
-# if len(str)>=2:
-#     str=str[:-2]
+if len(str)>=2:
+    str=str[:-2]
 
-# else:
-#     str=str[:-1]
+else:
+    str=str[:-1]
 
-# #reversing the string 
+#reversing the string 
 
-# print(str[::-1])
+print(str[::-1])
 
 
 
